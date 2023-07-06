@@ -541,6 +541,9 @@ a, a:hover{
     font-weight: 500;
     border-radius: 3px;
 }
+.contact-form .form-control::placeholder{
+    color: #444348;
+}
 .contact-form .form-control:focus{
     opacity: .95;
     background: transparent;
